@@ -1,0 +1,1 @@
+![visual database](latihan.png)
