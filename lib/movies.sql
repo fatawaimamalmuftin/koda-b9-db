@@ -1,0 +1,87 @@
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Incredibles', '2004-11-05', 8.0, 1, 1);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Troy', '2004-05-14', 7.3, 2, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Eternal Sunshine', '2004-03-19', 8.3, 3, 6);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Notebook', '2004-06-25', 7.8, 4, 6);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Collateral', '2004-08-06', 7.5, 37, 10);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Hotel Rwanda', '2004-09-11', 8.1, 10, 4);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Saw', '2004-10-29', 7.6, 12, 8);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Mean Girls', '2004-04-30', 7.1, 17, 5);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('I, Robot', '2004-07-16', 7.1, 20, 3);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Bourne Supremacy', '2004-07-23', 7.7, 36, 2);
+
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Batman Begins', '2005-06-15', 8.2, 1, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('V for Vendetta', '2005-03-17', 8.1, 30, 3);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('King Kong', '2005-12-14', 7.2, 7, 9);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Sin City', '2005-04-01', 8.0, 18, 10);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('War of the Worlds', '2005-06-29', 6.5, 2, 3);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Match Point', '2005-05-13', 7.6, 5, 6);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Constantine', '2005-02-18', 7.0, 20, 8);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The 40-Year-Old Virgin', '2005-08-19', 7.1, 17, 5);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Island', '2005-07-22', 6.8, 4, 3);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Chronicles of Narnia', '2005-12-09', 6.9, 7, 9);
+
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Prestige', '2006-10-20', 8.5, 1, 3);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Casino Royale', '2006-11-14', 8.0, 29, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Departed', '2006-10-06', 8.5, 5, 10);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Children of Men', '2006-12-25', 7.9, 11, 3);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('300', '2006-12-09', 7.6, 28, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Blood Diamond', '2006-12-08', 7.9, 4, 4);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Pursuit of Happyness', '2006-12-15', 8.0, 2, 4);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Little Miss Sunshine', '2006-07-26', 7.8, 22, 5);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Pan''s Labyrinth', '2006-08-11', 8.2, 14, 8);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Inside Man', '2006-03-24', 7.6, 5, 10);
+
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Ratatouille', '2007-06-29', 8.1, 13, 1);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('No Country for Old Men', '2007-11-21', 8.2, 9, 10);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('There Will Be Blood', '2007-12-26', 8.2, 5, 4);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Transformers', '2007-07-03', 7.0, 25, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Into the Wild', '2007-09-21', 8.1, 39, 4);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Zodiac', '2007-03-02', 7.7, 6, 7);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Superbad', '2007-08-17', 7.6, 17, 5);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Juno', '2007-12-25', 7.8, 33, 5);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Bourne Ultimatum', '2007-08-03', 8.0, 36, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('I Am Legend', '2007-12-14', 7.2, 20, 3);
+
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Iron Man', '2008-05-02', 7.9, 25, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Dark Knight', '2008-07-18', 9.0, 1, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('WALL-E', '2008-06-27', 8.4, 13, 1);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Slumdog Millionaire', '2008-11-12', 8.0, 10, 5);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Gran Torino', '2008-12-09', 8.1, 9, 4);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Kung Fu Panda', '2008-06-06', 7.6, 35, 1);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('In Bruges', '2008-01-19', 7.9, 24, 10);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Wrestler', '2008-12-17', 7.9, 12, 4);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Taken', '2008-02-27', 7.8, 36, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Step Brothers', '2008-07-25', 6.9, 17, 5);
+
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Up', '2009-05-29', 8.3, 13, 1);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Avatar', '2009-12-18', 7.8, 4, 3);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Inglourious Basterds', '2009-05-20', 8.3, 3, 10);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('District 9', '2009-08-14', 7.9, 23, 3);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Fantastic Mr. Fox', '2009-11-13', 7.9, 13, 1);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Hangover', '2009-06-05', 7.7, 17, 5);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Sherlock Holmes', '2009-12-25', 7.6, 18, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Coraline', '2009-02-05', 7.8, 8, 1);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Watchmen', '2009-03-06', 7.6, 30, 3);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Zombieland', '2009-09-25', 7.6, 24, 8);
+
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Inception', '2010-07-16', 8.8, 1, 3);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Toy Story 3', '2010-06-18', 8.3, 13, 1);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Shutter Island', '2010-02-19', 8.2, 5, 7);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Social Network', '2010-10-01', 7.7, 6, 4);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Black Swan', '2010-12-03', 8.0, 12, 7);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The King''s Speech', '2010-12-22', 8.0, 19, 4);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('How to Train Your Dragon', '2010-03-26', 7.9, 13, 1);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Tangled', '2010-11-24', 7.7, 13, 1);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Kick-Ass', '2010-04-16', 7.6, 28, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Town', '2010-09-17', 7.5, 5, 10);
+
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Scott Pilgrim vs. the World', '2010-08-13', 7.5, 24, 5);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('127 Hours', '2010-11-05', 7.5, 10, 4);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('True Grit', '2010-12-22', 7.6, 5, 4);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Fighter', '2010-12-10', 7.8, 42, 4);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Other Guys', '2010-08-06', 6.6, 25, 5);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Tangled', '2010-11-24', 7.7, 13, 1);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The Expendables', '2010-08-13', 6.4, 30, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Salt', '2010-07-23', 6.4, 20, 2);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('The American', '2010-09-01', 6.3, 5, 10);
+INSERT INTO movies (title, release_date, rating, diractor_id, genre_id) VALUES ('Easy A', '2010-09-17', 7.0, 38, 5);

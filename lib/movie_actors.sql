@@ -1,0 +1,54 @@
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (1, 1, 'Mr. Incredible');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (2, 3, 'Achilles');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (3, 3, 'Joel Barish');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (4, 37, 'Allie');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (5, 7, 'Vincent');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (6, 21, 'Paul Rusesabagina');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (7, 27, 'Lawrence Gordon');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (8, 13, 'Olive Penderghast');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (9, 9, 'Del Spooner');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (10, 7, 'Jason Bourne');
+
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (11, 2, 'Bruce Wayne');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (12, 17, 'V');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (13, 29, 'Jack Driscoll');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (14, 26, 'Dwight');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (15, 9, 'Ray Ferrier');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (16, 3, 'Chris Wilton');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (17, 17, 'John Constantine');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (18, 20, 'Andy');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (19, 17, 'Lincoln Six Echo');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (20, 4, 'Peter');
+
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (21, 3, 'Robert Angier');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (22, 7, 'James Bond');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (23, 21, 'Billy Costigan');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (24, 15, 'Theo Faron');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (25, 1, 'King Leonidas');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (26, 6, 'Danny Archer');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (27, 9, 'Chris Gardner');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (28, 20, 'Dwayne');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (29, 31, 'Ofelia');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (30, 27, 'Keith Frazier');
+
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (31, 14, 'Remy');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (32, 6, 'Llewelyn Moss');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (33, 3, 'Daniel Plainview');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (34, 1, 'Sam Witwicky');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (35, 7, 'Chris McCandless');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (36, 15, 'Robert Graysmith');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (37, 20, 'Seth');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (38, 13, 'Juno');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (39, 7, 'Jason Bourne');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (40, 9, 'Robert Neville');
+
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (41, 1, 'Tony Stark');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (42, 2, 'Bruce Wayne');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (43, 14, 'Remy');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (44, 7, 'Jamal Malik');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (45, 5, 'Walt Kowalski');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (46, 16, 'Po');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (47, 35, 'Ray');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (48, 26, 'Randy');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (49, 17, 'Bryan Mills');
+INSERT INTO movie_actors (movie_id, actor_id, role) VALUES (50, 20, 'Brennan');
